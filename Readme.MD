@@ -225,7 +225,7 @@ Supported on all modern browsers:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/zubairdev-code/lumiere-gallery.git
+git clone https://github.com/zubairdev-code/CodeAlpha-GalleryHub
 ```
 
 ---
